@@ -1,3 +1,0 @@
-Flask==1.1.2
--e "/Users/vipuldani/Desktop/development/ML_projects/wafer_fault_detection/packages/wafer_fault_detection"
-#pip install -r packages/ml_api/requirements.txt
