@@ -4,9 +4,9 @@ include *.cfg
 include *.pkl
 recursive-include ./wafer_fault_detection/*
 
-include wafer_fault_detection/datasets/train.csv
-include wafer_fault_detection/datasets/test.csv
-include wafer_fault_detection/models/*.pickle
+include wafer_fault_detection/files_from_db/data.csv
+include wafer_fault_detection/pred_data/data.csv
+include wafer_fault_detection/models/*
 include wafer_fault_detection/VERSION
 
 include ./requirements.txt
