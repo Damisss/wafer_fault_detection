@@ -1,0 +1,92 @@
+base:
+  project: Wafer fault detection
+  random_state: 42
+  target_col: Output
+
+data_source:
+  batch_files: 'wafer_fault_detection/training_batch_files'
+
+
+data_preparation:
+  training_db: wafer_fault_detection/services/training_wafer.db
+  schema_training: wafer_fault_detection/schema.json
+  training_sql_query: wafer_fault_detection/services/training.sql
+  validated_files_path: wafer_fault_detection/validated_files
+  good_data_path:  wafer_fault_detection/validated_files/good_data
+  # good_validated_raw_dir: validated_files/training/good_data
+  # bad_validated_raw_dir: validated_files/training/bad_data
+  # training_archive_bad_data: data/training_archive_bad_data
+  training_file_from_db: data/training_file_from_db
+  master_csv: wafer_fault_detection/files_from_db/data.csv
+  file_from_db: wafer_fault_detection/file_from_db
+
+# pred_data_preparation:
+#   prediction_db: services/prediction.db
+#   schema_prediction: config/schema_prediction.json
+#   training_sql_query: config/create_training_db.sql
+#   prediction_db_dir: prediction_batabase
+#   good_validated_raw_dir: data/prediction_raw_files_validated/good_data
+#   bad_validated_raw_dir: data/prediction_raw_files_validated/bad_data
+#   prediction_archive_bad_data: data/prediction_archive_bad_data
+#   prediction_file_from_db: data/prediction_file_from_db
+#   master_csv: master.csv
+#   prediction_results: prediction_results/results.csv
+
+
+saved_models:
+  model_dir: models
+
+data_preprocessing:
+  # preprocessed_data_dir: data/preprocessed_data
+  # null_values_csv: null_values.csv
+
+  # preprocessed_data_dir_pred: data/preprocessed_data_pred
+
+
+  KNNImputer: 
+    n_neighbors: 3 
+    weights: uniform
+    missing_values: nan
+
+  KMeansClustering:
+    model_path: wafer_fault_detection/models/kmeans
+    init: k-means++
+    n_cluster_max: 11
+    KneeLocator: 
+      curve: convex
+      direction: decreasing
+    
+
+# artifacts_dir: 
+#   general: general
+#   mlflow: mlflow_artifacts
+
+
+training:
+  svc:
+    C:
+      - 1
+      - 2
+    gamma:
+      - 0.001
+      - 0.005
+      - 0.1
+      - 0.5
+    kernel:
+      - linear
+      - poly 
+      - rbf
+  logistic_regression:
+    C:
+      - 100
+      - 10
+      - 1.0
+      - 0.1
+      - 0.01
+    penalty:
+      - l1
+      - l2
+    solver:
+      - newton-cg
+      - lbfgs
+      - liblinear

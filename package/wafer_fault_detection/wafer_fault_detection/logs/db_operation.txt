@@ -1,0 +1,196 @@
+Database wafer_fault_detection/services/training_wafer.db has been successfully connected.
+Table wafer has been successfully created.
+Database wafer_fault_detection/services/training_wafer.db has been successfully connected.
+file wafer_fault_detection/validated_files/good_data/wafer_16012020_051629.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_23012020_041211.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_21012020_080913.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_28042020_031911.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_28012020_090817.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_20022020_090716.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_29012020_050617.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_13012020_090817.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_27012020_080911.csv has been successfully inserted to table.
+Database wafer_fault_detection/services/training_wafer.db has been successfully connected.
+Data have been successfully fetched
+Database wafer_fault_detection/services/training_wafer.db has been successfully connected.
+Table wafer has been successfully created.
+Database wafer_fault_detection/services/training_wafer.db has been successfully connected.
+file wafer_fault_detection/validated_files/good_data/wafer_16012020_051629.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_23012020_041211.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_21012020_080913.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_28042020_031911.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_28012020_090817.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_20022020_090716.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_29012020_050617.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_13012020_090817.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_27012020_080911.csv has been successfully inserted to table.
+Database wafer_fault_detection/services/training_wafer.db has been successfully connected.
+Data have been successfully fetched
+Database wafer_fault_detection/services/training_wafer.db has been successfully connected.
+Table wafer has been successfully created.
+Database wafer_fault_detection/services/training_wafer.db has been successfully connected.
+file wafer_fault_detection/validated_files/good_data/wafer_16012020_051629.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_23012020_041211.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_21012020_080913.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_28042020_031911.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_28012020_090817.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_20022020_090716.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_29012020_050617.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_13012020_090817.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_27012020_080911.csv has been successfully inserted to table.
+Database wafer_fault_detection/services/training_wafer.db has been successfully connected.
+Data have been successfully fetched
+Database wafer_fault_detection/services/training_wafer.db has been successfully connected.
+Table wafer has been successfully created.
+Database wafer_fault_detection/services/training_wafer.db has been successfully connected.
+file wafer_fault_detection/validated_files/good_data/wafer_16012020_051629.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_23012020_041211.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_21012020_080913.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_28042020_031911.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_28012020_090817.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_20022020_090716.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_29012020_050617.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_13012020_090817.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_27012020_080911.csv has been successfully inserted to table.
+Database wafer_fault_detection/services/training_wafer.db has been successfully connected.
+Data have been successfully fetched
+Database wafer_fault_detection/services/training_wafer.db has been successfully connected.
+Table wafer has been successfully created.
+Database wafer_fault_detection/services/training_wafer.db has been successfully connected.
+file wafer_fault_detection/validated_files/good_data/wafer_16012020_051629.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_23012020_041211.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_21012020_080913.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_28042020_031911.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_28012020_090817.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_20022020_090716.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_29012020_050617.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_13012020_090817.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_27012020_080911.csv has been successfully inserted to table.
+Database wafer_fault_detection/services/training_wafer.db has been successfully connected.
+Data have been successfully fetched
+Database wafer_fault_detection/services/training_wafer.db has been successfully connected.
+Table wafer has been successfully created.
+Database wafer_fault_detection/services/training_wafer.db has been successfully connected.
+file wafer_fault_detection/validated_files/good_data/wafer_16012020_051629.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_23012020_041211.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_21012020_080913.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_28042020_031911.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_28012020_090817.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_20022020_090716.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_29012020_050617.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_13012020_090817.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_27012020_080911.csv has been successfully inserted to table.
+Database wafer_fault_detection/services/training_wafer.db has been successfully connected.
+Data have been successfully fetched
+Database wafer_fault_detection/services/training_wafer.db has been successfully connected.
+Table wafer has been successfully created.
+Database wafer_fault_detection/services/training_wafer.db has been successfully connected.
+file wafer_fault_detection/validated_files/good_data/wafer_16012020_051629.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_23012020_041211.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_21012020_080913.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_28042020_031911.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_28012020_090817.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_20022020_090716.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_29012020_050617.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_13012020_090817.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_27012020_080911.csv has been successfully inserted to table.
+Database wafer_fault_detection/services/training_wafer.db has been successfully connected.
+Data have been successfully fetched
+Database wafer_fault_detection/services/training_wafer.db has been successfully connected.
+Table wafer has been successfully created.
+Database wafer_fault_detection/services/training_wafer.db has been successfully connected.
+file wafer_fault_detection/validated_files/good_data/wafer_16012020_051629.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_23012020_041211.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_21012020_080913.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_28042020_031911.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_28012020_090817.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_20022020_090716.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_29012020_050617.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_13012020_090817.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_27012020_080911.csv has been successfully inserted to table.
+Database wafer_fault_detection/services/training_wafer.db has been successfully connected.
+Data have been successfully fetched
+Database wafer_fault_detection/services/training_wafer.db has been successfully connected.
+Table wafer has been successfully created.
+Database wafer_fault_detection/services/training_wafer.db has been successfully connected.
+file wafer_fault_detection/validated_files/good_data/wafer_16012020_051629.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_23012020_041211.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_21012020_080913.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_28042020_031911.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_28012020_090817.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_20022020_090716.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_29012020_050617.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_13012020_090817.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_27012020_080911.csv has been successfully inserted to table.
+Database wafer_fault_detection/services/training_wafer.db has been successfully connected.
+Data have been successfully fetched
+Database wafer_fault_detection/services/training_wafer.db has been successfully connected.
+Table wafer has been successfully created.
+Database wafer_fault_detection/services/training_wafer.db has been successfully connected.
+file wafer_fault_detection/validated_files/good_data/wafer_16012020_051629.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_23012020_041211.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_21012020_080913.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_28042020_031911.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_28012020_090817.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_20022020_090716.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_29012020_050617.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_13012020_090817.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_27012020_080911.csv has been successfully inserted to table.
+Database wafer_fault_detection/services/training_wafer.db has been successfully connected.
+Data have been successfully fetched
+Database wafer_fault_detection/services/training_wafer.db has been successfully connected.
+Table wafer has been successfully created.
+Database wafer_fault_detection/services/training_wafer.db has been successfully connected.
+file wafer_fault_detection/validated_files/good_data/wafer_16012020_051629.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_23012020_041211.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_21012020_080913.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_28042020_031911.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_28012020_090817.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_20022020_090716.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_29012020_050617.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_13012020_090817.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_27012020_080911.csv has been successfully inserted to table.
+Database wafer_fault_detection/services/training_wafer.db has been successfully connected.
+Data have been successfully fetched
+Database wafer_fault_detection/services/training_wafer.db has been successfully connected.
+Table wafer has been successfully created.
+Database wafer_fault_detection/services/training_wafer.db has been successfully connected.
+file wafer_fault_detection/validated_files/good_data/wafer_16012020_051629.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_23012020_041211.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_21012020_080913.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_28042020_031911.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_28012020_090817.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_20022020_090716.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_29012020_050617.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_13012020_090817.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_27012020_080911.csv has been successfully inserted to table.
+Database wafer_fault_detection/services/training_wafer.db has been successfully connected.
+Data have been successfully fetched
+Database wafer_fault_detection/services/training_wafer.db has been successfully connected.
+Table wafer has been successfully created.
+Database wafer_fault_detection/services/training_wafer.db has been successfully connected.
+file wafer_fault_detection/validated_files/good_data/wafer_16012020_051629.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_23012020_041211.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_21012020_080913.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_28042020_031911.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_28012020_090817.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_20022020_090716.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_29012020_050617.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_13012020_090817.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_27012020_080911.csv has been successfully inserted to table.
+Database wafer_fault_detection/services/training_wafer.db has been successfully connected.
+Data have been successfully fetched
+Database wafer_fault_detection/services/training_wafer.db has been successfully connected.
+Table wafer has been successfully created.
+Database wafer_fault_detection/services/training_wafer.db has been successfully connected.
+file wafer_fault_detection/validated_files/good_data/wafer_16012020_051629.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_23012020_041211.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_21012020_080913.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_28042020_031911.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_28012020_090817.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_20022020_090716.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_29012020_050617.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_13012020_090817.csv has been successfully inserted to table.
+file wafer_fault_detection/validated_files/good_data/wafer_27012020_080911.csv has been successfully inserted to table.
+Database wafer_fault_detection/services/training_wafer.db has been successfully connected.
+Data have been successfully fetched

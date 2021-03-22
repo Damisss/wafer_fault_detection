@@ -1,0 +1,7 @@
+Parameters tuning has successfully completed.
+Parameters tuning has successfully completed.
+Something went wrong while performing model parameters tuning Found input variables with inconsistent numbers of samples: [168, 1272] 
+Something went wrong while performing model parameters tuning save_model() got an unexpected keyword argument 'model_path' 
+Something went wrong while performing model parameters tuning With n_samples=1, test_size=0.2 and train_size=None, the resulting train set will be empty. Adjust any of the aforementioned parameters. 
+Parameters tuning has successfully completed.
+Parameters tuning has successfully completed.

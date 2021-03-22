@@ -1,0 +1,16 @@
+include *.txt
+include *.md
+include *.cfg
+include *.pkl
+recursive-include ./wafer_fault_detection/*
+
+include wafer_fault_detection/datasets/train.csv
+include wafer_fault_detection/datasets/test.csv
+include wafer_fault_detection/models/*.pickle
+include wafer_fault_detection/VERSION
+
+include ./requirements.txt
+exclude *.log
+
+recursive-exclude * __pycache__
+recursive-exclude * *.py[co]
