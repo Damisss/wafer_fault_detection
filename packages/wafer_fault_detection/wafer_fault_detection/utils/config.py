@@ -4,25 +4,6 @@ import wafer_fault_detection
 
 PACKAGE_ROOT = pathlib.Path(wafer_fault_detection.__file__).resolve().parent
 APP_LOGS = 'wafer_fault_detection/logs'
-# TRAINING_BATCH_DIR_PATH = 'wafer_fault_detection/training_batch_files'
-# SCHEMA_PATH = 'wafer_fault_detection/schema.json'
-# TRAINING_VALIDATED_FILES_PATH = 'wafer_fault_detection/validated_files'
-# TRAINING_GOOD_DATA_PATH = os.path.join(TRAINING_VALIDATED_FILES_PATH, 'good_data')
-# TRAINING_DB_PATH = 'wafer_fault_detection/services/training_wafer.db'
-# TRAINING_DATA_PATH = 'wafer_fault_detection/files_from_db/data.csv'
-# PLOTS_PATH = 'wafer_fault_detection/plots'
-# FILE_FROM_DB = 'wafer_fault_detection/file_from_db'
-# KMEANS_PATH = 'wafer_fault_detection/models/kmeans'
-#TRAINING_FILE_FROM_DB = 'training_file_from_db/training_file.csv'
-
-# PREDICTION_BATCH_FILES_PATH = 'wafer_fault_detection/prediction_batch_files'
-# PREDICTION_VALIDATED_FILES_PATH = 'wafer_fault_detection/validated_files/prediction'
-# PREDICTION_GOOD_DATA_PATH = os.path.join(PREDICTION_VALIDATED_FILES_PATH, 'good_data')
-# PREDICTION_DB_PATH = 'wafer_fault_detection/services/training_wafer.db'
-# PREDICTION_RESULTS = 'wafer_fault_detection/prediction_results/predictions.csv'
-# PREDICTION_LOGS='wafer_fault_detection/prediction_logs'
-# PREDICTION_DATA_PATH = 'wafer_fault_detection/files_from_db/prediction/data.csv'
-
 
 DROP_FEATURES=[
   'Sensor-6',
